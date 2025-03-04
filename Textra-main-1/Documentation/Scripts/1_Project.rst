@@ -77,6 +77,8 @@ Il prend une image stockée localement et la convertit en sa version encodée ba
 
 Ensuite, nous écrivons le code qui nous aidera à envoyer la demande API.
 
+k
+
 .. code-block:: python
 
    def question_image(url,query):
